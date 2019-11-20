@@ -23,8 +23,8 @@ deploy:
   branch: master
 
 disqus_shortname:
-google_analytics: 
-baidu_analytics: 
+google_analytics:
+baidu_analytics:
 fb_admins: 100000247608790
 twitter: o2circle
 github: lee84233/html-guide
