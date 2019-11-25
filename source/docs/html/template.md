@@ -8,9 +8,18 @@ HTML模版指的是团队使用的初始化HTML文件，里面会根据不同平
 ```html
 <!DOCTYPE html>
 <html lang="zh-CN">
+
 <head>
-<meta charset="UTF-8">
-<title>HTML5标准模版</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="keywords" content="关键字">
+  <meta name="description" content="描述">
+  <!-- Set render engine for 360 browser -->
+  <meta name="renderer" content="webkit">
+  <!-- No Baidu Siteapp-->
+  <meta http-equiv="Cache-Control" content="no-siteapp" />
+  <title>HTML5标准模板</title>
 </head>
 <body>
 	
