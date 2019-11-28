@@ -1,3 +1,7 @@
+# 预览地址
+
+[**点击阅读**](https://lee84233.github.io/guide/)
+
 # Front-End Coding Guidelines
 
 Installation Coding Guidelines For Front-End Developers.
@@ -37,7 +41,3 @@ $ hexo s --watch
   ```bash
   hexo d -g
   ```
-
-## License
-
-[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)

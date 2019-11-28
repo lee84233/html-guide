@@ -5,7 +5,7 @@ author: HFF Team
 language: zh-cn
 timezone: Asia/Shanghai
 url: http://lee84233.github.io/
-root: /html-guide/
+root: /guide/
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
 code_dir: downloads/code
