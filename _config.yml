@@ -5,7 +5,7 @@ author: HFF Team
 language: zh-cn
 timezone: Asia/Shanghai
 url: http://lee84233.github.io/
-root: /
+root: /html-guide/
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
 code_dir: downloads/code
@@ -23,10 +23,6 @@ deploy:
   branch: gh-pages
 
 disqus_shortname:
-google_analytics: UA-4910098-10
-baidu_analytics: bb4b770d7fdf4e05245cd1327199d813
-fb_admins: 100000247608790
-swiftype_key: nxhXzi1rDss_9_P_6zBa
 twitter: 
 github: lee84233/html-guide
 gh:

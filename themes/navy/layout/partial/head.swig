@@ -31,20 +31,9 @@
   <!-- build:css css/dist.style.css -->
   {{ css('css/navy') }}
   <!-- endbuild -->
-  <!-- RSS -->
-  {{ feed_tag('atom.xml') }}
-  <!-- Open Graph -->
-  {{ open_graph({
-    fb_admins: config.fb_admins,
-    twitter_site: config.twitter
-  }) }}
-  <!-- Swiftype -->
-  <meta class="swiftype" name="title" data-type="string" content="{{ page.title || config.title }}">
-  <!-- Baidu Analytics -->
-  {{ partial('baidu_analytics') }}
   <script>
     var App = {
-        root:'{{ config.root }}'    
+        root:'{{ config.root }}'
     };
   </script>
 </head>
